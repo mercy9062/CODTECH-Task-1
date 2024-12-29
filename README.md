@@ -1,7 +1,11 @@
 Name: KAROLIN MERCY RANI C 
-Company: CODTECH IT SOLUTIONS 
+
+Company: CODTECH IT SOLUTIONS
+
 Domain: python programming 
+
 Durations: DEC 20TH 2024 TO FEB 20 2024 
+
 Mentor: SRAVANI GOUNI 
 
 Project Overview: Web-Based Calculator 
